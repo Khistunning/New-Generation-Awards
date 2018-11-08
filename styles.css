@@ -1,0 +1,43 @@
+h1{
+    text-align:center;
+}
+img{
+    width:280px;
+}
+p{
+    font-size:25px;
+}
+p{
+    font-family: 'Spicy Rice', cursive;
+}
+body{
+   background-color:pink;
+}
+.top-award{
+    border:40px solid white;
+}
+.second-award{
+   color:white;
+}
+.third-award{
+    font-size:55px;
+}
+.third-award{
+    color:white;
+}
+.fourth-award{
+    text-align:right;
+}
+.second-award{
+    text-align:right;
+}
+.fourth-award{
+    color:yellow;
+}
+body{
+    background:url("https://intheevent.com/wp-content/uploads/2016/01/Hollywood-Backdrop.jpg");
+}
+.top-award{
+    color:white;
+}
+
